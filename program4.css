@@ -1,0 +1,100 @@
+h1{
+
+color:maroon;
+
+background-color:lavender;
+ border:solid maroon 5px;
+
+border-radius:10px;
+}
+
+h2{
+
+color:maroon;
+
+background-color:lavender;
+ border:solid maroon 5px;
+
+border-radius:10px;
+}
+
+body{
+
+background-color:purple shadow;
+
+color:black;
+
+ padding:20px;
+}
+div{
+	margin:50px;
+	
+}
+
+.qual{
+
+font-size:10px;
+}
+
+.BranchName {
+
+color:maroon;
+
+font-size:18px;
+
+list-style-type: upper-roman;
+}
+
+.facCategory{
+
+color:black;
+
+font-size:15px;
+
+background-color:pink;
+
+width:1500px;
+
+
+padding:20px;
+
+border:solid maroon 4px;
+
+border-radius:10px;
+}
+
+.fact{
+
+color:black;
+
+font-size:15px;
+
+background-color:pink;
+
+width:1500px;
+
+padding:20px;
+
+
+border:solid maroon 4px;
+
+border-radius:10px;
+}
+.fac{
+	
+color:black;
+
+font-size:15px;
+
+background-color:pink;
+
+width:1500px;
+
+padding:20px;
+
+
+border:solid maroon 4px;
+
+border-radius:10px;	
+	
+}
