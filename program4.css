@@ -51,8 +51,8 @@ list-style-type: upper-roman;
 color:black;
 
 font-size:15px;
-
-background-color:pink;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,233,225,1) 100%);
 
 width:1500px;
 
